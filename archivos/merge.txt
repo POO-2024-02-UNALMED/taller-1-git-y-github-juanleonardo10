@@ -1,3 +1,6 @@
+HEAD
 Nombre:  Juan Leonardo Medina Reyes
 Edad: 22 años
 Aspiración: Aprender lo mas posible y no resprobar
+puedo realizar el commit y subir la carpeta porque ya no esta vacia
+puede provocar conflictos de versiones. Esto ocurre cuando dos o más personas (o una misma persona en diferentes dispositivos) editan el mismo archivo en paralelo sin sincronizar los cambios entre ellos. Al intentar combinarlos, Git no sabe cuál cambio conservar, lo que obliga a resolver el conflicto manualmente.
